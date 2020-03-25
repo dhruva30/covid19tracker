@@ -1,11 +1,11 @@
 {
-  "name": "covid19tracker",
-  "short_name": "covid19tracker",
+  "name": "Covid19Tracker",
+  "short_name": "COVID19",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "scope": "/covid19tracker/",
+  "start_url": "/covid19tracker/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
